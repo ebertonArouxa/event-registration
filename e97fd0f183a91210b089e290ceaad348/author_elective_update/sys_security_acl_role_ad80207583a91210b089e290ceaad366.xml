@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 03:04:29</sys_created_on>
+        <sys_id>ad80207583a91210b089e290ceaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1305322_event_0_registration.x_1305322_event_0.admin</sys_name>
+        <sys_package display_value="Event Registration" source="x_1305322_event_0">e97fd0f183a91210b089e290ceaad348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">e97fd0f183a91210b089e290ceaad348</sys_scope>
+        <sys_security_acl display_value="x_1305322_event_0_registration">6d80207583a91210b089e290ceaad34a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ad80207583a91210b089e290ceaad366</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 03:04:29</sys_updated_on>
+        <sys_user_role display_value="x_1305322_event_0.admin" name="x_1305322_event_0.admin">657fd0f183a91210b089e290ceaad377</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Event Registration">e97fd0f183a91210b089e290ceaad348</application>
+        <file_path/>
+        <instance_id>24bc233f1b42465478c7cb7b234bcb8b</instance_id>
+        <instance_name>dev271272</instance_name>
+        <name>sys_security_acl_role_ad80207583a91210b089e290ceaad366</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-30 03:04:29</sys_created_on><sys_id>ad80207583a91210b089e290ceaad366</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1305322_event_0_registration.x_1305322_event_0.admin</sys_name><sys_package display_value="Event Registration" source="x_1305322_event_0">e97fd0f183a91210b089e290ceaad348</sys_package><sys_policy/><sys_scope display_value="Event Registration">e97fd0f183a91210b089e290ceaad348</sys_scope><sys_security_acl display_value="x_1305322_event_0_registration">6d80207583a91210b089e290ceaad34a</sys_security_acl><sys_update_name>sys_security_acl_role_ad80207583a91210b089e290ceaad366</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-30 03:04:29</sys_updated_on><sys_user_role display_value="x_1305322_event_0.admin" name="x_1305322_event_0.admin">657fd0f183a91210b089e290ceaad377</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-484235691</payload_hash>
+        <record_name>x_1305322_event_0_registration.x_1305322_event_0.admin</record_name>
+        <reverted_from/>
+        <source>e97fd0f183a91210b089e290ceaad372</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 03:04:29</sys_created_on>
+        <sys_id>ad80207583a91210b089e290ceaad369</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192db61c1540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 03:04:29</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a180207599a91210d128b56b9882ff69</update_guid>
+        <update_guid_history>a180207599a91210d128b56b9882ff69:-484235691</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1305322_event_0_registration.x_1305322_event_0.admin">7725158a83a11210b089e290ceaad370</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 01:33:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>447b7bb1558c4531ae7ce0589f4a7f61</sys_id>
+        <sys_metadata>ad80207583a91210b089e290ceaad366</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1305322_event_0_registration.x_1305322_event_0.admin</sys_name>
+        <sys_package display_value="Event Registration" source="x_1305322_event_0">e97fd0f183a91210b089e290ceaad348</sys_package>
+        <sys_parent display_value="x_1305322_event_0_registration">6d80207583a91210b089e290ceaad34a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">e97fd0f183a91210b089e290ceaad348</sys_scope>
+        <sys_scope_delete display_value="">2e166d444dc44ae4a235078fff7ac7b1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ad80207583a91210b089e290ceaad366</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ad80207583a91210b089e290ceaad366">ad80207583a91210b089e290ceaad369</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 01:33:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
