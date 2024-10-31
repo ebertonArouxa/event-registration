@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1305322_event_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 02:59:51</sys_created_on>
+        <sys_id>217fd0f183a91210b089e290ceaad37d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1305322_event_0.user</sys_name>
+        <sys_package display_value="Event Registration" source="x_1305322_event_0">e97fd0f183a91210b089e290ceaad348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">e97fd0f183a91210b089e290ceaad348</sys_scope>
+        <sys_update_name>sys_user_role_217fd0f183a91210b089e290ceaad37d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 02:59:51</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Event Registration">e97fd0f183a91210b089e290ceaad348</application>
+        <file_path/>
+        <instance_id>24bc233f1b42465478c7cb7b234bcb8b</instance_id>
+        <instance_name>dev271272</instance_name>
+        <name>sys_user_role_217fd0f183a91210b089e290ceaad37d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default user role</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1305322_event_0.user</name><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-30 02:59:51</sys_created_on><sys_id>217fd0f183a91210b089e290ceaad37d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1305322_event_0.user</sys_name><sys_package display_value="Event Registration" source="x_1305322_event_0">e97fd0f183a91210b089e290ceaad348</sys_package><sys_policy/><sys_scope display_value="Event Registration">e97fd0f183a91210b089e290ceaad348</sys_scope><sys_update_name>sys_user_role_217fd0f183a91210b089e290ceaad37d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-30 02:59:51</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1959784261</payload_hash>
+        <record_name>x_1305322_event_0.user</record_name>
+        <reverted_from/>
+        <source>e97fd0f183a91210b089e290ceaad372</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 02:59:51</sys_created_on>
+        <sys_id>6d7fd0f183a91210b089e290ceaad37f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192db5d82880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 02:59:51</sys_updated_on>
+        <type>Role</type>
+        <update_guid>617fd0f168a9121015a45e7ab157577f</update_guid>
+        <update_guid_history>617fd0f168a9121015a45e7ab157577f:-1959784261</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1305322_event_0.user">e8259d4a83a11210b089e290ceaad388</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 01:32:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>21f854c4879244f08af9af8b4a046144</sys_id>
+        <sys_metadata>217fd0f183a91210b089e290ceaad37d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1305322_event_0.user</sys_name>
+        <sys_package display_value="Event Registration" source="x_1305322_event_0">e97fd0f183a91210b089e290ceaad348</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">e97fd0f183a91210b089e290ceaad348</sys_scope>
+        <sys_scope_delete display_value="">2e166d444dc44ae4a235078fff7ac7b1</sys_scope_delete>
+        <sys_update_name>sys_user_role_217fd0f183a91210b089e290ceaad37d</sys_update_name>
+        <sys_update_version display_value="sys_user_role_217fd0f183a91210b089e290ceaad37d">6d7fd0f183a91210b089e290ceaad37f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 01:32:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
