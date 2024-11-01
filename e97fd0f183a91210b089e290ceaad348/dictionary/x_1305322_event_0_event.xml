@@ -2,8 +2,8 @@
     <element db_object_id="c0bf58f183a91210b089e290ceaad356" label="Event" max_length="40" name="x_1305322_event_0_event" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
-        <element label="Name" max_length="40" name="name" type="string"/>
-        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Description" max_length="500" name="description" type="string"/>
         <element label="Available seats" max_length="40" name="seats" type="integer"/>
         <element label="Transmission link" max_length="1024" name="transmission_link" type="url"/>
         <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
