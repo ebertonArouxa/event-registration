@@ -11,14 +11,14 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-30 03:02:01</sys_created_on>
-            <sys_mod_count>7</sys_mod_count>
+            <sys_mod_count>9</sys_mod_count>
             <sys_name>Available seats</sys_name>
             <sys_package display_value="Event Registration" source="x_1305322_event_0">e97fd0f183a91210b089e290ceaad348</sys_package>
             <sys_policy/>
             <sys_scope display_value="Event Registration">e97fd0f183a91210b089e290ceaad348</sys_scope>
             <sys_update_name>sys_documentation_x_1305322_event_0_event_seats_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-30 03:16:17</sys_updated_on>
+            <sys_updated_on>2024-11-03 01:21:03</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
